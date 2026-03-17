@@ -2,6 +2,7 @@
 
 A TUI markdown viewer built with Rust. Browse and read markdown files in your terminal with syntax-highlighted code blocks.
 
+[![Crates.io](https://img.shields.io/crates/v/readmd)](https://crates.io/crates/readmd)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)
 
 ![demo](demo.png)
@@ -17,7 +18,7 @@ A TUI markdown viewer built with Rust. Browse and read markdown files in your te
 ## Install
 
 ```bash
-cargo install --path .
+cargo install readmd
 ```
 
 ## Usage
