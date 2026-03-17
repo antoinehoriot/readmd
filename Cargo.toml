@@ -2,6 +2,12 @@
 name = "readmd"
 version = "0.1.0"
 edition = "2021"
+description = "A TUI markdown viewer with file browser, table of contents, and syntax highlighting"
+license = "MIT"
+repository = "https://github.com/antoinehoriot/readmd"
+authors = ["Antoine Horiot"]
+keywords = ["markdown", "tui", "terminal", "viewer", "cli"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 ratatui = "0.29"
