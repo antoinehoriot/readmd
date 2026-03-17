@@ -4,6 +4,8 @@ A TUI markdown viewer built with Rust. Browse and read markdown files in your te
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)
 
+![demo](demo.png)
+
 ## Features
 
 - **File browser sidebar** — navigate directories, expand/collapse, filtered to `.md` files only
