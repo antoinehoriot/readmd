@@ -5,7 +5,7 @@ A TUI markdown viewer built with Rust. Browse and read markdown files in your te
 [![Crates.io](https://img.shields.io/crates/v/readmd)](https://crates.io/crates/readmd)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)
 
-![demo](demo.png)
+![readmd: file browser, table of contents and rendered markdown with highlighted code](assets/demo.webp)
 
 ## Features
 
@@ -29,6 +29,9 @@ readmd
 
 # Browse a specific directory
 readmd ~/notes
+
+# Try it on the bundled sample
+readmd examples
 ```
 
 ## Key Bindings
